@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/>
 </a>
 
-<a href="https:// www.linkedin.com/in/ejhar-mohammad-noman05">
+<a href="https://www.linkedin.com/in/ejhar-mohammad-noman05">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
