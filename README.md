@@ -4,8 +4,6 @@
 
 ![AI in Education Research Enthusiast](https://img.shields.io/badge/AI_in_Education-Research_Enthusiast-2563EB?style=for-the-badge)
 
-**Government Primary School Teacher • Political Science Graduate • University of Dhaka**
-
 <a href="https://orcid.org/0009-0009-6180-5236">
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/>
 </a>
