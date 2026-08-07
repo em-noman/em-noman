@@ -45,7 +45,7 @@ I am a government primary school teacher in Bangladesh with a background in Poli
 - Git & GitHub
 - Research Methodology
 - Academic Writing
--Jamovi and Python for Data Analysis
+- Jamovi and Python for Data Analysis
   
 ---
 
