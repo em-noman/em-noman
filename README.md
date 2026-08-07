@@ -22,14 +22,14 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I am a government primary school teacher in Bangladesh with a background in Political Science. Working in a rural school has inspired my interest in how technology can improve educational opportunities for children in underserved communities. My research focuses on AI in education, education policy, digital governance, and educational technology (EdTech), with a particular interest in equitable AI adoption in government primary schools. I hope my work will contribute to practical, evidence-based policies that help make quality education more accessible and inclusive.
 
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 - Artificial Intelligence in Education
 - Education Policy
@@ -41,7 +41,7 @@ I am a government primary school teacher in Bangladesh with a background in Poli
 
 ---
 
-## 📚 Current Learning
+##  Current Learning
 
 - R Programming
 - Git & GitHub
@@ -51,7 +51,7 @@ I am a government primary school teacher in Bangladesh with a background in Poli
 - 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
