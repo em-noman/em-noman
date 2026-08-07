@@ -48,7 +48,7 @@ I am a government primary school teacher in Bangladesh with a background in Poli
 - Research Methodology
 - Academic Writing
 - Data Analysis
-- 
+  
 ---
 
 ##  Tools & Technologies
