@@ -49,15 +49,6 @@ I am a government primary school teacher in Bangladesh with a background in Poli
   
 ---
 
-##  Tools & Technologies
-
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat-square)
-
----
 
 
 <div align="center">
